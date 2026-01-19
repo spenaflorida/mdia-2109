@@ -9,7 +9,9 @@ This is me testing out a single commit! When I **commit changes...** on this fil
 
 ## Which classes have I attended this week?
 - [X] MDIA-2109
+- [ ] MDIA-2055
+- [ ] MDIA-2295
 
-## Are you having a good day?
+## Will I have a good day today?
 - [X] Yes
 - [ ] No
