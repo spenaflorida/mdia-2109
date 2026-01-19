@@ -2,10 +2,14 @@
 
 This is me testing out a single commit! When I **commit changes...** on this file, it will save a snapshot that I can revert to at _any_ point in time. 
 
-- [ ] This is a list item I can check off when complete
-- [ ] Here is another list item
+## What am I craving today? 
+- [X] Onion rings
+- [X] Churros
+- [ ] Sushi
 
-## Which dogs are here today? 
-- [X] Billie
-- [X] Teenie
-- [ ] Coco
+## Which classes have I attended this week?
+- [X] MDIA-2109
+
+## Are you having a good day?
+- [X] Yes
+- [ ] No
