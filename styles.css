@@ -1,0 +1,45 @@
+body {
+    background-color: darkslateblue;
+}
+
+.heading {
+    text-align: center;
+}
+
+h1 {
+    color: mistyrose;
+    text-decoration: underline;
+}
+
+h2 {
+    color: lightyellow;
+}
+
+h3 {
+    color: lightgoldenrodyellow;
+}
+
+main {
+    border: 3px dashed orange;
+}
+
+.difficulties {
+    color: lightpink;
+}
+
+.goals {
+    color: lightgreen;
+}
+
+.challenges {
+    color: lightblue;
+}
+
+footer {
+    text-align: center;
+}
+
+blockquote {
+    font-style: italic;
+    color: lavender;
+}
