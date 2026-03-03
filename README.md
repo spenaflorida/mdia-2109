@@ -11,6 +11,7 @@ While our **FSWD** team only consisnts of one member, which is Derek Lee. Having
 ## Share what __you__ would like to focus on making __perfect__ repository. 
 - it should NOT just be completing Project 1
 - it should NOT be identical to what a teammate is focussing on 
+
 I would like to focus on designing a well functioning interface that matches the game design, to give a better user experience. This is because UX/UI is important in regarding to any type of interface to show the design and usage. Making sure it is visually appealing to the users, as well as functional for satisfaction. A good design helps make an experience engaging and enjoyable. 
 
 ## Share a brief action plan for implementation (what you need to study up on, and how it relates to your learning plan, if applicable).
